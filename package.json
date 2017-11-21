@@ -1,0 +1,22 @@
+{
+  "name": "flow-diagram",
+  "version": "1.0.0",
+  "description": "\"Flow Diagram Desktop App\"",
+  "main": "Main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Val3ry-Gaius/Flow-Diagram.git"
+  },
+  "author": "Val3ry-Gaius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Val3ry-Gaius/Flow-Diagram/issues"
+  },
+  "homepage": "https://github.com/Val3ry-Gaius/Flow-Diagram#readme",
+  "dependencies": {
+    "electron": "^1.7.9"
+  }
+}

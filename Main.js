@@ -17,3 +17,10 @@ app.on('ready', function(){
     slashes: true
   }));
 });
+
+// Create menu template
+const mainMenuTemplate = [
+  {
+    label: 'File'
+  }
+];

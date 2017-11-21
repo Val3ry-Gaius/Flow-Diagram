@@ -2,7 +2,8 @@
     "env": {
         "browser": false,
         "commonjs": false,
-        "es6": true
+        "es6": true,
+        "node": true
     },
     "extends": "eslint:recommended",
     "parserOptions": {
@@ -25,5 +26,9 @@
             "error",
             "always"
         ]
-    }
+    },
+    "plugins": [
+        "html",
+        "json"
+    ]
 }

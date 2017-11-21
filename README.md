@@ -1,3 +1,3 @@
 # Flow-Diagram
 
-Processes a MCC traffic and returns a flow diagram for all scenarios required.
+Processes a manual traffic count and returns a flow diagram for all scenarios required.
